@@ -3,4 +3,4 @@
 | ---|:--------------------------------------------------------------:| ----------:| ----------:|
 | 3  |                                                                |  |            |
 | 2  |                                                                |  |            |
-| 1  | two sum                                                        | [JavaScript](http://www.baidu.com) | Easy       |
+| 1  | two sum                                                        | [JavaScript](https://github.com/LazyChenY/LeetCode/blob/master/algorithms/two-sum.js) | Easy       |
