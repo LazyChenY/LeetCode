@@ -1,5 +1,6 @@
 /**
  * Created by apple on 16/9/4.
+ * use ‘map’ to replace the nested loop; reduce the run-time complexity;
  */
 var twoSum = function(nums, target) {
 	var map={},
