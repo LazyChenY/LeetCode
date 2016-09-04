@@ -25,3 +25,4 @@ var twoSum = function(numbers, target) {
 };
 console.timeEnd('time of twoSun');
 console.log(twoSum([2, 7, 9, 11,4,6,5], 11));
+console.log();
