@@ -23,6 +23,7 @@ var addTwoNumbers = function(l1, l2) {
 
 	while (l1 && l2) {
 		val += l1.val + l2.val;
+		console.log(val);
 		node = new ListNode(val % 10);
 
 		if (newHead) {
