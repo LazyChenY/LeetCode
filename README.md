@@ -1,6 +1,6 @@
 # LeetCode
 | ＃ | Title                                                          |  Solution  | Difficulty |
-| ---|:--------------------------------------------------------------:| :----------:| :----------:|
+| ---|:--------------------------------------------------------------| :----------:| :----------:|
 | 10 |                                                                |             |             |
 | 9  | Palindrome number                                              | [JavaScript](https://github.com/LazyChenY/LeetCode/blob/master/algorithms/palindrome_number.js)                       |  Easy       |
 | 8  | String To Integer                                              | [JavaScript](https://github.com/LazyChenY/LeetCode/blob/master/algorithms/string_to_integer.js)                          |  Easy    |
