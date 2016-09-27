@@ -1,7 +1,8 @@
 # LeetCode
 | ＃ | Title                                                          |  Solution  | Difficulty |
 | ---|:--------------------------------------------------------------:| :----------:| :----------:|
-| 9  |                                                                |             |             |
+| 10 |                                                                |             |             |
+| 9  | Palindrome number                                              | [JavaScript](https://github.com/LazyChenY/LeetCode/blob/master/algorithms/palindrome_number.js)                       |  Easy       |
 | 8  | String To Integer                                              | [JavaScript](https://github.com/LazyChenY/LeetCode/blob/master/algorithms/string_to_integer.js)                          |  Easy    |
 | 7  | Reverse String                                                 | [JavaScript](https://github.com/LazyChenY/LeetCode/blob/master/algorithms/reverse_string.js)                             |  Easy    |
 | 6  | Reverse Integer                                                |  [JavaScript](https://github.com/LazyChenY/LeetCode/blob/master/algorithms/reverse_integer.js)                            |  Easy    |
